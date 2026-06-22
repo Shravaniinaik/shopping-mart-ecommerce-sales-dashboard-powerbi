@@ -71,15 +71,6 @@ Interactive Elements
 * Analytical Thinking
 * Data Storytelling
 
-📂 Repository Structure
-
-shopping-mart-ecommerce-sales-dashboard/
-│
-├── Shopping_Mart_Dashboard.pbix
-├── dashboard_screenshot.png
-├── dashboard_demo.mp4
-└── README.md
-
 🎯 Business Value
 
 This dashboard enables users to:
